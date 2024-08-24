@@ -1,0 +1,28 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "JEBPX7GX5C.net.robertdev.moyabarber"
+        ],
+        "paths": ["*"],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Matches all routes"
+          }
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "JEBPX7GX5C.net.robertdev.moyabarber"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "JEBPX7GX5C.net.robertdev.moyabarber"
+    ]
+  }
+}

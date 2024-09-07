@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.robertdev.moyabarber",
+      "sha256_cert_fingerprints": ["1C:FB:B7:40:BD:59:15:33:4C:3F:F5:DD:08:45:BE:88:84:13:B3:28:A5:84:B4:73:DE:E2:AF:DC:AB:82:48:83"]
+    }
+  }
+]

@@ -15,7 +15,7 @@ export default function DownloadLinks() {
          </p>
          <div className="mt-8 items-center justify-center space-x-8 flex h-40">
             {deviceType === 'android' && (
-               <a href="https://play.google.com/store/apps/details?id=">
+               <a href="https://play.google.com/store/apps/details?id=net.robertdev.moyabarber">
                   <img src="/images/google.png" alt="Get it on Google Play" />
                </a>
             )}
